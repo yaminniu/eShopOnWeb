@@ -8,6 +8,8 @@ env:
   LOCATION: australiaeast
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: c1a0e50e-c680-4fa2-9597-ede77b1b1af3
+  TENANT-ID: a60a24c0-de3e-43c8-84ea-af54abf529bd
+  CLIENT-ID: bc187e11-a82c-4abd-864e-c8de84b1104c
   WEBAPP-NAME: eshoponweb-webapp-yamin
 
 jobs:
